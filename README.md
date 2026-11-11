@@ -6,7 +6,7 @@
 
 ## Проекты
 
-- **Угадай число: космос** — игра в браузере и в терминале, два режима. [Сыграть в браузере](https://github.com/cc-cli-user/guess-number) · [код](https://github.com/cc-cli-user/guess-number)
+- **Угадай число: космос** — игра в браузере и в терминале, два режима. [Сыграть в браузере](https://cc-cli-user.github.io/guess-number/) · [код](https://github.com/cc-cli-user/guess-number)
 - **translit** — кириллица латиницей по ISO 9: библиотека, команда и сайт. [Репозиторий](https://github.com/cc-cli-user/translit)
 
 ## Вклад в open source
