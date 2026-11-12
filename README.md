@@ -16,3 +16,5 @@
 translit — v1.3.0
 
 course2026-gh47-release-profile — v1.2.0
+
+course2026-g48-handline — v1.3.0
