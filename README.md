@@ -12,3 +12,5 @@
 ## Вклад в open source
 
 - [Моя карточка в галерее выпускников курса](https://github.com/vezhnin/course2026-gallery/pull/2) — слитый Pull Request в чужой проект.
+
+translit — v1.3.0
