@@ -11,7 +11,7 @@
 
 ## Вклад в open source
 
-- [Моя карточка в галерее выпускников курса](https://github.com/cc-cli-user/course2026-gallery/tree/card-cc-cli-user) — слитый Pull Request в чужой проект.
+- [Моя карточка в галерее выпускников курса](https://github.com/vezhnin/course2026-gallery/pull/22) — слитый Pull Request в чужой проект.
 
 translit — v1.3.0
 course2026-gh47-release-profile — v1.2.0
