@@ -6,7 +6,7 @@
 
 ## Проекты
 
-- **Угадай число: космос** — игра в браузере и в терминале, два режима. [Сыграть в браузере](https://cc-cli-user.github.io/guess-number/) · [код](https://github.com/cc-cli-user/guess-number)
+- **Угадай число: космос** — игра в браузере и в терминале, два режима. [Сыграть в браузере](https://github.com/cc-cli-user/guess-number) · [код](https://github.com/cc-cli-user/guess-number)
 - **translit** — кириллица латиницей по ISO 9: библиотека, команда и сайт. [Репозиторий](https://github.com/cc-cli-user/translit)
 
 ## Вклад в open source
@@ -14,5 +14,4 @@
 - [Моя карточка в галерее выпускников курса](https://github.com/vezhnin/course2026-gallery/pull/2) — слитый Pull Request в чужой проект.
 
 translit — v1.3.0
-
 course2026-gh47-release-profile — v1.2.0
